@@ -7,10 +7,9 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/guilhermelim/To-do-List">
-    <img src="images/screenshot.png" alt="Product Screenshot">
+  <a href="https://github.com/guilhermelim/To-do-List" display="block">
+    <img src="images/screenshot.png" alt="Product Screenshot" width="500">    
   </a>
-
   <h3 align="center">To do List</h3>
 </p>
 
