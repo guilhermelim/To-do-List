@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/guilhermelim/To-do-List">
-    <img src="README/images/screenshot.png" alt="Product Screenshot" width="80" height="80">
+    <img src="README/images/screenshot.png" alt="Product Screenshot">
   </a>
 
   <h3 align="center">To do List</h3>
